@@ -7,7 +7,7 @@ $projects = [
     'link' => '#'
   ],
   [
-    'name' => 'XD',
+    'name' => 'Easy Meal',
     'description' => 'Lorem Ipsum',
     'image' => 'Expo_2022.png',
     'link' => '#'
@@ -31,9 +31,9 @@ $projects = [
     'link' => '#'
   ],
   [
-    'name' => 'DX',
+    'name' => 'Other Self',
     'description' => 'Lorem Ipsum',
-    'image' => 'Expo_2022.png',
-    'link' => '#'
+    'image' => 'OtherSelf.png',
+    'link' => 'Other-self'
   ],
 ];

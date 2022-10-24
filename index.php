@@ -20,8 +20,8 @@
       <div class="container-fluid">
         <a class="navbar-brand" href="#">
           <div class="row">
-            <img src="img/superatelogo.png" alt="Logo" width="auto" height="auto" class="d-inline-block align-text-top p-0 col-4 align-self-center">
-            <span class="text-wrap h-100 px-2 col-8 text-center text-md-start align-self-center" id="title">
+            <img src="img/superatelogo.png" alt="Logo" width="auto" height="auto" class="d-inline-block align-text-top p-0 col-4 offset-1 offset-md-0 align-self-center">
+            <span class="text-wrap h-100 px-2 col-7 col-md-8 text-center text-md-start align-self-center" id="title">
               Centro ¡Supérate! Fundación Poma
             </span>
           </div>
@@ -31,7 +31,7 @@
   </header>
 
   <div class="container">
-    <div class="col-md-12">
+    <div class="col-md-12 text-justify">
       <hr>
       <img src="img/Expo_2022.png" width="auto" class="img mt-3 mb-3" alt="">
       <hr>
@@ -54,7 +54,7 @@
             <div class="card-body">
               <img src="img/<?= $project['image'] ?>" alt="" width="100%">
               <p class="card-text"><?= $project['description'] ?></p>
-              <a href="<?= $project['link'] ?>" class="btn btn-primary">Check it out</a>
+              <a href="../<?= $project['link'] ?>" class="btn btn-primary">Check it out</a>
             </div>
           </div>
         </div>
