@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="style.css">
   <link rel="shortcut icon" href="img/superatelogo.png" type="image/png">
-
+  <link rel="manifest" href="/manifest.json">
   <title>POMA EXPO 2022</title>
 </head>
 
