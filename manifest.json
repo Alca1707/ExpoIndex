@@ -3,7 +3,7 @@
     "name": "Poma Expo 2022",
     "icons": [
       {
-        "src": "/img/squared-Expo_2022_512x512.png",
+        "src": "ExpoIndex/img/squared-Expo_2022_512x512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
