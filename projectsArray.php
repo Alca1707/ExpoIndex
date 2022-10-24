@@ -28,7 +28,7 @@ $projects = [
     'name' => 'Promise Me',
     'description' => 'Lorem Ipsum',
     'image' => 'PromiseMeIcon.png',
-    'link' => '#'
+    'link' => 'PromiseMe-app/public'
   ],
   [
     'name' => 'Other Self',
