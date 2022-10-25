@@ -4,7 +4,7 @@ $projects = [
     'name' => 'Brain Setters',
     'description' => 'Lorem Ipsum',
     'image' => 'Expo_2022.png',
-    'link' => '#'
+    'link' => 'brain-setters'
   ],
   [
     'name' => 'Easy Meal',
