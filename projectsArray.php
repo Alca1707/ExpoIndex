@@ -3,13 +3,13 @@ $projects = [
   [
     'name' => 'Brain Setters',
     'description' => 'Lorem Ipsum',
-    'image' => 'Expo_2022.png',
+    'image' => 'BrainSetters.png',
     'link' => 'brain-setters'
   ],
   [
     'name' => 'Easy Meal',
     'description' => 'Lorem Ipsum',
-    'image' => 'Expo_2022.png',
+    'image' => 'EasyMeals.png',
     'link' => '#'
   ],
   [
@@ -27,7 +27,7 @@ $projects = [
   [
     'name' => 'Promise Me',
     'description' => 'Lorem Ipsum',
-    'image' => 'PromiseMeIcon.png',
+    'image' => 'PromiseMe.png',
     'link' => 'PromiseMe-app/public'
   ],
   [
