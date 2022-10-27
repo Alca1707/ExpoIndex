@@ -8,9 +8,10 @@ $projects = [
   ],
   [
     'name' => 'Easy Meal',
-    'description' => 'Lorem Ipsum',
+    'description' => 'A Project intended to promote a healthy lifestyle by sharing tips, easy recipes, and useful information
+    that will help people understand and clarify important concepts about what healthy eating is all about',
     'image' => 'EasyMeals.png',
-    'link' => '#'
+    'link' => 'Easy-Meals'
   ],
   [
     'name' => 'Help for Help',
@@ -20,7 +21,7 @@ $projects = [
   ],
   [
     'name' => 'Superate! Got Talent',
-    'description' => 'Lorem Ipsum',
+    'description' => 'A website full of young talented ¡Supérate! Fundacion Poma Students that have amazing skills that they will show and put into practice within the activities in the center',
     'image' => 'superateGotTalent.jpeg',
     'link' => 'GotTalent/public'
   ],
