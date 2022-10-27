@@ -35,10 +35,9 @@
       <hr>
       <img src="img/Expo_2022.png" width="auto" class="img mt-3 mb-3" alt="">
       <hr>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sagittis tristique nunc, vitae scelerisque augue. Phasellus eu tincidunt ante. Pellentesque est magna, interdum at ex quis, porttitor sagittis sapien. Vestibulum vitae maximus lectus. Praesent rutrum lorem sed accumsan semper. Vestibulum in est sed ante aliquam viverra non id ex. Morbi vehicula feugiat mi. Aenean convallis eget libero sit amet mollis. Cras nulla eros, ultrices quis congue tempor, ultrices non urna. Nullam imperdiet dignissim porta. Nullam nec facilisis neque, eget pretium eros. Quisque laoreet elit lacus, ut sollicitudin elit ullamcorper a. Maecenas gravida maximus est. Phasellus et tincidunt urna, in condimentum lacus. Nulla eu semper mi. Etiam ligula felis, pulvinar eget suscipit ac, porta sit amet justo.
-        <br><br>
-        Maecenas eu arcu ex. Nam in mauris sit amet enim cursus mattis viverra ut elit. Maecenas sed est non justo accumsan vestibulum. Morbi vel diam rutrum, venenatis erat eu, sodales justo. Praesent ornare arcu in feugiat aliquet. Suspendisse lacinia varius egestas. Sed non tincidunt metus. Nunc vehicula purus quis dui pellentesque bibendum. Nullam a velit tempus, aliquet lacus id, commodo nibh. Sed mattis eleifend sem, fringilla viverra arcu convallis sit amet. Vivamus luctus, enim id mollis sodales, est justo laoreet nisi, non laoreet lectus arcu ac purus. In sed sodales nibh. Phasellus scelerisque turpis at nibh condimentum tincidunt. Vestibulum sodales orci justo, et ullamcorper nulla semper eget.
-      </p>
+      <p>Expo 2022 – Back to Reality is an event organized by students from second year of the scholarship. They have worked in groups with mentors to develop a website or app that fits a problem caused by the pandemic. This Expo was inspired by Together to Help and Technology Promoters. Both with the purpose of sharing solutions in response to the problems due to the pandemic.
+       <br><br> By now, students have showed the ravages of the last 2 years, in which they have had to adapt their habits and lifestyle. However, the world and society are trying to return to a "new reality" which implies unlearning some things and building new habits to promote a healthy lifestyle.
+        To this end, our students have decided to create technological tools to provide solutions to problems found because of the pandemic. </p>
 
       <h1 class="title">Check the projects</h1>
     </div>
