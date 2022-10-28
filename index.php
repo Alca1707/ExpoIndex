@@ -46,7 +46,7 @@
       <?php foreach ($projects as $project) : ?>
 
         <div class="col mb-3">
-          <div class="card text-center">
+          <div class="card text-center h-100">
             <div class="card-header">
               <?= $project['name'] ?>
             </div>
