@@ -2,7 +2,7 @@
 $projects = [
   [
     'name' => 'Brain Setters',
-    'description' => 'Lorem Ipsum',
+    'description' => 'Brain Setters is a webpage for ¡Supérate! students to retake or create social, mental and physical wellness practices',
     'image' => 'BrainSetters.png',
     'link' => 'brain-setters'
   ],
@@ -15,7 +15,7 @@ $projects = [
   ],
   [
     'name' => 'Help for Help',
-    'description' => 'Lorem Ipsum',
+    'description' => 'A Social project that promotes a circular economic system between ¡Superate! students with the objective is a facility process of sharing resources from the ¡Superate! students, families, and alumni to others ¡Superate! students, families, and alumni',
     'image' => 'help4help.png',
     'link' => 'help-for-help/public'
   ],
