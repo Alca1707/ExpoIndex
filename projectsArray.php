@@ -27,7 +27,7 @@ $projects = [
   ],
   [
     'name' => 'Promise Me',
-    'description' => 'Lorem Ipsum',
+    'description' => 'PROMISE ME is a social media where students can set out their promises, it doesn’t matter how big they are, if it’s a promise, its valuable. It is based on “because I said I would”, a social movement created by Alex Sheen, having as main purpose to make promises reliable again',
     'image' => 'PromiseMe.png',
     'link' => 'PromiseMe-app/public'
   ],
