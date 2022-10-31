@@ -2,7 +2,7 @@
 $projects = [
   [
     'name' => 'Brain Setters',
-    'description' => 'Brain Setters is a webpage for ¡Supérate! students to retake or create social, mental and physical wellness practices',
+    'description' => 'Brain Setters is a webpage for ¡Supérate! students to retake or create social, mental and physical wellness practices. You can find information, tips, challenges and quotes about social, mental and physical practices',
     'image' => 'BrainSetters.png',
     'link' => 'brain-setters'
   ],
@@ -33,7 +33,7 @@ $projects = [
   ],
   [
     'name' => 'Other Self',
-    'description' => 'Lorem Ipsum',
+    'description' => '',
     'image' => 'OtherSelf.png',
     'link' => 'Other-self'
   ],
