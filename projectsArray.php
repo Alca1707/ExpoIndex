@@ -33,7 +33,7 @@ $projects = [
   ],
   [
     'name' => 'Other Self',
-    'description' => '',
+    'description' => 'The main purpose of our Project is to provide the necessary tools to encourage ¡Supérate! Students seek professional treatment for their psycho-emotional difficulties through videos, basic definitions, and more',
     'image' => 'OtherSelf.png',
     'link' => 'Other-self'
   ],
