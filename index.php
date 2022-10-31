@@ -60,7 +60,7 @@
 
       <?php endforeach; ?>
 
-      <div class="col mb-3">
+      <div class="col mb-3" id="4me">
           <div class="card text-center h-100">
             <div class="card-header">Focus Your Mind</div>
             <div class="card-body">
