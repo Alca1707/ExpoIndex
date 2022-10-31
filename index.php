@@ -59,6 +59,17 @@
         </div>
 
       <?php endforeach; ?>
+
+      <div class="col mb-3">
+          <div class="card text-center h-100">
+            <div class="card-header">Focus Your Mind</div>
+            <div class="card-body">
+              <img src="img/FocusYourMind.png" alt="" width="100%">
+              <p class="card-text">Lorem ipsum</p>
+              <a href="/4meDownload.php" class="btn btn-primary">Download the APK for Android</a>
+            </div>
+          </div>
+        </div>
     </div>
 
   </div>
