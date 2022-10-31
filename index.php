@@ -52,8 +52,10 @@
             </div>
             <div class="card-body">
               <img src="img/<?= $project['image'] ?>" alt="" width="100%">
-              <p class="card-text"><?= $project['description'] ?></p>
-              <a href="../<?= $project['link'] ?>" class="btn btn-primary">Check it out</a>
+              <p class="card-text"><br><?= $project['description'] ?></p>
+              <div class="col-12">
+                <a href="../<?= $project['link'] ?>" class="btn btn-primary w-100">Check it out</a>
+              </div>
             </div>
           </div>
         </div>
@@ -65,7 +67,9 @@
             <div class="card-header">Focus Your Mind</div>
             <div class="card-body">
               <img src="img/FocusYourMind.png" alt="" width="100%">
-              <p class="card-text">Lorem ipsum</p>
+              <p class="card-text"><br>"We are focus your mind. As a team we decided to create an application for you, our project will help you to create new and benefit habits. We identified that before the pandemic many of the students from Centro Superate Fundación Poma lost their habits, that's why we decided to create an application in which you can find guide and it's user friendly. We hope you enjoy our app".
+<br>
+If you need any further information, please don't hesitate to get in touch</p>
               <a href="4meDownload.php" class="btn btn-primary">Download the APK for Android</a>
             </div>
           </div>

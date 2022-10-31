@@ -7,7 +7,7 @@ $projects = [
     'link' => 'brain-setters'
   ],
   [
-    'name' => 'Easy Meal',
+    'name' => 'Easy Meals',
     'description' => 'A Project intended to promote a healthy lifestyle by sharing tips, easy recipes, and useful information
     that will help people understand and clarify important concepts about what healthy eating is all about',
     'image' => 'EasyMeals.png',
@@ -15,7 +15,7 @@ $projects = [
   ],
   [
     'name' => 'Help for Help',
-    'description' => 'A Social project that promotes a circular economic system between ¡Superate! students with the objective is a facility process of sharing resources from the ¡Superate! students, families, and alumni to others ¡Superate! students, families, and alumni',
+    'description' => 'A Social project that promotes a circular economic system between ¡Superate! students with the objective is a facility process of sharing resources from the ¡Superate! students, families, and alumni to others',
     'image' => 'help4help.png',
     'link' => 'help-for-help/public'
   ],
@@ -27,7 +27,7 @@ $projects = [
   ],
   [
     'name' => 'Promise Me',
-    'description' => 'PROMISE ME is a social media where students can set out their promises, it doesn’t matter how big they are, if it’s a promise, its valuable. It is based on “because I said I would”, a social movement created by Alex Sheen, having as main purpose to make promises reliable again',
+    'description' => 'This is a social media where students can set out their promises, regardless of its size, if it’s a promise, it’s valuable. It’s based on “because I said I would”, a social movement created by Alex Sheen, having as main purpose to make promises reliable again',
     'image' => 'PromiseMe.png',
     'link' => 'PromiseMe-app/public'
   ],
