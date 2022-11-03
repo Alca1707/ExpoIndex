@@ -22,7 +22,7 @@ $projects = [
   [
     'name' => 'Superate! Got Talent',
     'description' => 'A website full of young talented ¡Supérate! Fundacion Poma Students that have amazing skills that they will show and put into practice within the activities in the center',
-    'image' => 'superateGotTalent.jpeg',
+    'image' => 'superateGotTalent.png',
     'link' => 'GotTalent/public'
   ],
   [
